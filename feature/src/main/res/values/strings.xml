@@ -1,0 +1,22 @@
+<resources>
+    <string name="helloworld">HelloWorld</string>
+    <string name="usrnm">Username:</string>
+    <string name="username">username</string>
+    <string name="username1">username</string>
+    <string name="password1">Password</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">SIgn Up</string>
+    <string name="sign_up_activity">Sign Up Activity</string>
+    <string name="if_you_don_t_have_acount">If you don\'t have acount:</string>
+    <string name="compcomp">CompComp</string>
+    <string name="compcomp_2019">CompComp 2019</string>
+    <string name="e_mail">E-mail</string>
+    <string name="email">email</string>
+    <string name="usernameUp">Username</string>
+    <string name="username_nickname">username/nickname</string>
+    <string name="passwordUp">Password</string>
+    <string name="phone_numberUp">Phone Number</string>
+    <string name="phone">phone</string>
+    <string name="sign_upUp">Sign Up</string>
+</resources>
